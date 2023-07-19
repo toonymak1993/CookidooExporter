@@ -6,7 +6,7 @@ Wenn du also einen Thermomix besitzt, deine Woche planst und eine laufende ioBro
 
 Außerdem habe ich das Ganze nun in eine ausführbare Datei (EXE) gepackt. Diese fragt einmalig die benötigten Daten ab. Danach musst du nur die Einkaufsliste auf der Coockidoo-Website kopieren und über den Start der EXE importieren.
 
-Die einrichtung dauert etwas, einmal eingerichtet, ist es jedoch ein leichtes die Einkaufsliste hochzuladen.
+Die einrichtung dauert etwas, einmal eingerichtet, ist es jedoch ein Leichtes die Einkaufsliste hochzuladen.
 
 # Notwendig
 
@@ -50,6 +50,6 @@ In der APP sollten nun die Produkte mit Bild verfügbar sein
 
 Kopiere die Daten auf der Cookidoo Webseite.
 
-Starte die Exe un klicke auf dem Button (Import zu Bring).
+Starte die Exe und klicke auf dem Button (Import zu Bring).
 
 Die Daten werden nun vom Clipboard genommen und hochgeladen.
