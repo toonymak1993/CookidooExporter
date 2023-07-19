@@ -1,6 +1,6 @@
 # CookidooExporter
 
-Leider verfügt Coockidoo nicht über eine Importfunktion, was mich ein wenig gestört hat. Deshalb habe ich ein PowerShell-Skript geschrieben, das es mir ermöglicht, die Zutaten von der offiziellen Coockidoo-Website zu importieren. Da ich bereits eine laufende ioBroker-Instanz habe, kann ich dieses Skript verwenden.
+Leider verfügt Cookidoo nicht über eine Importfunktion, was mich ein wenig gestört hat. Deshalb habe ich ein PowerShell-Skript geschrieben, das es mir ermöglicht, die Zutaten von der offiziellen Coockidoo-Website zu importieren. Da ich bereits eine laufende ioBroker-Instanz habe, kann ich dieses Skript verwenden.
 
 Wenn du also einen Thermomix besitzt, deine Woche planst und eine laufende ioBroker-Instanz hast, kannst du jetzt dieses Skript verwenden, um Bring für deine Einkäufe zu nutzen. Ich finde es viel bequemer.
 
