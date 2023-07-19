@@ -1,4 +1,4 @@
-# CookidooExporter
+# CookidooExporter zu Bring
 
 Leider verfügt Cookidoo nicht über eine Importfunktion, was mich ein wenig gestört hat. Deshalb habe ich ein PowerShell-Skript geschrieben, das es mir ermöglicht, die Zutaten von der offiziellen Coockidoo-Website zu importieren. Da ich bereits eine laufende ioBroker-Instanz habe, kann ich dieses Skript verwenden.
 
